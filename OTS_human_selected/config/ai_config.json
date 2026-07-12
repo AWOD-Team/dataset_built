@@ -1,8 +1,0 @@
-{
-  "inferenceTool": "ollama",
-  "model": "qwen3-vl:8b",
-  "apiUrl": "http://localhost:11434",
-  "apiKey": "",
-  "timeout": "30",
-  "prompt": "检测图中物体，返回JSON：{\"detections\":[{\"label\":\"类别\",\"confidence\":0.9,\"bbox\":[x1,y1,x2,y2]}]}"
-}
