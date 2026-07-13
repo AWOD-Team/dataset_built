@@ -2,6 +2,7 @@ person
 bicycle
 car
 motorcycle
+airplane
 bus
+train
 truck
-motor
